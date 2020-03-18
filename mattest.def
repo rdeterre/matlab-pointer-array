@@ -1,0 +1,5 @@
+LIBRARY   mattest
+EXPORTS
+   mattest_create
+   mattest_destroy
+   mattest_get_value
